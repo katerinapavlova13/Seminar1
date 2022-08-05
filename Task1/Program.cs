@@ -6,6 +6,7 @@ if (b * b == a)
 {
     Console.WriteLine($"{a} является квадратом {b}");
 }
-else{
+else
+{
     Console.WriteLine($"{a} не является квадратом {b}");
 }
